@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/matrimony/static/css/main.99721e0b.chunk.css",
+    "main.js": "/matrimony/static/js/main.5ad3f2b0.chunk.js",
+    "main.js.map": "/matrimony/static/js/main.5ad3f2b0.chunk.js.map",
+    "runtime~main.js": "/matrimony/static/js/runtime~main.c0ada547.js",
+    "runtime~main.js.map": "/matrimony/static/js/runtime~main.c0ada547.js.map",
+    "static/css/2.ae9e8b99.chunk.css": "/matrimony/static/css/2.ae9e8b99.chunk.css",
+    "static/js/2.877588d4.chunk.js": "/matrimony/static/js/2.877588d4.chunk.js",
+    "static/js/2.877588d4.chunk.js.map": "/matrimony/static/js/2.877588d4.chunk.js.map",
+    "index.html": "/matrimony/index.html",
+    "precache-manifest.9fbc4d4a7116f1dd6cea8702fe4e6cb9.js": "/matrimony/precache-manifest.9fbc4d4a7116f1dd6cea8702fe4e6cb9.js",
+    "service-worker.js": "/matrimony/service-worker.js",
+    "static/css/2.ae9e8b99.chunk.css.map": "/matrimony/static/css/2.ae9e8b99.chunk.css.map",
+    "static/css/main.99721e0b.chunk.css.map": "/matrimony/static/css/main.99721e0b.chunk.css.map",
+    "static/media/default-profile-man.jpg": "/matrimony/static/media/default-profile-man.e67e358c.jpg",
+    "static/media/default-profile-no-gender.png": "/matrimony/static/media/default-profile-no-gender.10b9c9ab.png",
+    "static/media/default-profile-woman.jpg": "/matrimony/static/media/default-profile-woman.201d1752.jpg",
+    "static/media/heart-anim.gif": "/matrimony/static/media/heart-anim.91b1ee00.gif",
+    "static/media/heart-broken.gif": "/matrimony/static/media/heart-broken.208f7a69.gif",
+    "static/media/heart-loading.gif": "/matrimony/static/media/heart-loading.81116db5.gif",
+    "static/media/App.css": "/matrimony/static/media/pre-wedding-photoshoot.5a84ec27.jpg",
+    "static/media/logo-with-name.png": "/matrimony/static/media/logo-with-name.c79f7e18.png",
+    "static/media/logo.png": "/matrimony/static/media/logo.08ac7f5e.png",
+    "static/media/man-profile-background.png": "/matrimony/static/media/man-profile-background.9885ac9d.png",
+    "static/media/man-woman-profile-background.png": "/matrimony/static/media/man-woman-profile-background.9885ac9d.png",
+    "static/media/match-love-anim.webp": "/matrimony/static/media/match-love-anim.bcfdc4a3.webp",
+    "static/media/no-image.jpeg": "/matrimony/static/media/no-image.bcb73808.jpeg",
+    "static/media/woman-profile-background.png": "/matrimony/static/media/woman-profile-background.9885ac9d.png"
+  }
+}
