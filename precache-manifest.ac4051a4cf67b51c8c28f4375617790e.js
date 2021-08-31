@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "935948c8863f19c36908e9d35db56889",
+    "revision": "3a2dc76922df57ca9b8ef982fa0c0b22",
     "url": "/matrimony/index.html"
   },
   {
-    "revision": "2052832696523fed756c",
+    "revision": "4d87709ab3f378db1aa5",
     "url": "/matrimony/static/css/2.ae9e8b99.chunk.css"
   },
   {
-    "revision": "45eae41ec4b676ac6ddb",
+    "revision": "43f07454b7d86fd966a2",
     "url": "/matrimony/static/css/main.99721e0b.chunk.css"
   },
   {
-    "revision": "2052832696523fed756c",
-    "url": "/matrimony/static/js/2.877588d4.chunk.js"
+    "revision": "4d87709ab3f378db1aa5",
+    "url": "/matrimony/static/js/2.40d4d24d.chunk.js"
   },
   {
-    "revision": "45eae41ec4b676ac6ddb",
-    "url": "/matrimony/static/js/main.5ad3f2b0.chunk.js"
+    "revision": "43f07454b7d86fd966a2",
+    "url": "/matrimony/static/js/main.a5a97e15.chunk.js"
   },
   {
     "revision": "120affeb04f35dcbddd7",
